@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on mlops
 - 🌱 golang, smart home
 - 😄 Pronouns: he/him
-- 📫 How to reach me: clf2863768433@gmail.com
+- 📫 How to reach me: [email](clf2863768433@gmail.com)
 <!--
 **xiyichan/xiyichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
