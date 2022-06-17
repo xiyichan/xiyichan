@@ -1,5 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=xiyichan&show_icons=true&theme=radical&count_private=true"/>
 
+- 🔭 I’m currently working on mlops
+- 🌱 golang, smart home
+- 😄 Pronouns: he/him
+- 📫 How to reach me: clf2863768433@gmail.com
 <!--
 **xiyichan/xiyichan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
